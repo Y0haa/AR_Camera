@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">0.001dp</dimen>
+    <dimen name="activity_vertical_margin">0.001dp</dimen>
+
+    <dimen name="tedbottompicker_grid_layout_margin">1dp</dimen>
+
+    <dimen name="tedbottompicker_selected_image_height">90dp</dimen>
+
+</resources>

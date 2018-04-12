@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AR_Camera</string>
+
+    <string name="tedbottompicker_title">Select Image Then TOUCH Screen</string>
+    <string name="no_image">No Image</string>
+    <string name="done">Done</string>
+
+    <string name="select_max_count">Already %1$d images selected</string>
+    <string name="select_min_count">You have to choice %1$d images</string>
+    <string name="show_midea_product_selector">Show Midea Product Selector</string>
+    <string name="Application_Id">com.midea.ar_camera</string>
+
+</resources>

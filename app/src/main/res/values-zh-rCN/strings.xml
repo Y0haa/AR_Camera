@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tedbottompicker_title">" 选择图像然后触摸屏幕"</string>
+    <string name="show_midea_product_selector">显示美的产品选择器</string>
+</resources>
